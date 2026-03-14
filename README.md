@@ -1,12 +1,3 @@
----
-title: Helmet Detection Flask App
-emoji: 🛡️
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
----
-
 # Helmet Detection Flask Application
 
 This is a Flask-based helmet detection application running on Hugging Face Spaces.
