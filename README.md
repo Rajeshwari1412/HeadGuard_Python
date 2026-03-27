@@ -1,43 +1,28 @@
-# Helmet Detection Flask Application
+---
+title: Helmet Detection Flask App
+emoji: 🛡️
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
 
-This is a Flask-based helmet detection application running on Hugging Face Spaces.
-## Description
-IT's a idea developed using Python that detects whether a motorbike rider is wearing a helmet or not. It uses computer vision techniques to analyze images or video and helps improve road safety.
+# Helmet Detection Flask Application 🛡️
+
+A Python-based computer vision application to detect whether motorbike riders are wearing helmets using OpenCV. Runs on Hugging Face Spaces.
+
+## Quick Start
+```bash
+git clone https://github.com/rajuperumalla951515/Helmet_Detection_PythonCV.git
+cd Helmet_Detection_Project
+pip install -r requirements.txt
+python app.py
+```
 
 ## Features
-- Detects helmet and no-helmet cases
-- Works with images or video input
-- Simple and easy to understand implementation
+- Detects helmet/no-helmet cases from images & video.
+- **Tech Stack**: Python, Machine Learning, OpenCV, Numpy.
+- **Applications**: Road safety monitoring, traffic law enforcement, smart transportation.
 
-## Technologies Used
-- Python
-- Machine Learning
-- OpenCV
-- Numpy
-- Computer Vision
-
-## Installation
-1. Clone the repository
-git clone https://github.com/rajuperumalla951515/Helmet_Detection_PythonCV.git
-
-2. Navigate to the project folder
-cd Helmet_Detection_Project
-cd weights
-
-4. Install dependencies
-pip install -r requirements.txt
-
-## Usage
-Run the detection script:
-python app.py
-
-## Applications
-- Road safety monitoring
-- Traffic law enforcement
-- Smart transportation systems
-
-## Developed By 
-Raju Perumalla 
-
-If you Found Helpful ,
-Dont Forget to ⭐ the repo 
+**Developed By:** Raju Perumalla  
+⭐ *Star the repo if you found it helpful!*
