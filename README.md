@@ -15,5 +15,5 @@ python app.py
 - **Tech Stack**: Python, Machine Learning, OpenCV, Numpy.
 - **Applications**: Road safety monitoring, traffic law enforcement, smart transportation.
 
-**Developed By:** Raju Perumalla  
+**Developed By:** Rajeshwari kotoju  
 ⭐ *Star the repo if you found it helpful!*
